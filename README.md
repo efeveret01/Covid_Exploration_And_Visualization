@@ -7,7 +7,7 @@ webpage[1] is cleaned, imported and explored. See the CovidDataExploration for t
 
 After exploration, information that was seen as 'interesting to know' about the Covid-19
 situation was made into SQL views that were imported and visualized by Microsoft Power BI.
-See the CovidDataViews for the selected data that was imported to the Power BI, and finally
+See the 'CovidDataViews' for the selected data that was imported to the Power BI, and finally
 look at the Covid_BI_Project for the final dashboard.
 
 
