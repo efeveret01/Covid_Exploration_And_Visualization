@@ -2,7 +2,7 @@
 
 ## The exploration and visualization of Covid-19 data using Microsoft SQL Server and Power BI
 
-Using Microsoft SQL Server the Covid-19 data downloaded from the **Our World in Data**
+Using Microsoft SQL Server the Covid-19 data downloaded from the **'Our World in Data'**
 webpage[1] is cleaned, imported and explored. See the CovidDataExploration for the exploration stage.
 
 After exploration, information that was seen as 'interesting to know' about the Covid-19
