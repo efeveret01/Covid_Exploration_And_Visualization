@@ -13,3 +13,8 @@ look at the *Covid_BI_Project* for the final dashboard.
 
 [1] https://ourworldindata.org/covid-deaths
 
+## How to run the file:
+1. Download BI file from link below:
+
+2. Open file on PowerBI
+
