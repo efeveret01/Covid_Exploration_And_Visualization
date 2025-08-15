@@ -18,21 +18,21 @@ look at the *Covid_BI_Project* for the final dashboard.
 2. Open file on PowerBI
 
 # Covid_Exploration_And_Visualization
-##Overview
+## Overview
 
 This project explores and visualizes COVID-19 data using Microsoft SQL Server and Power BI.
 
 The dataset is sourced from Our World in Data and processed in several stages:
 
-Data Cleaning & Exploration (SQL)
+1. Data Cleaning & Exploration (SQL)
 The COVID-19 dataset is downloaded, cleaned, and explored using Microsoft SQL Server.
 See the CovidDataExploration SQL script for the exploration stage.
 
-View Creation (SQL)
+2. View Creation (SQL)
 Based on the exploration phase, data points identified as "interesting to know" are organized into SQL views.
 See CovidDataViews for the SQL views that were created.
 
-Visualization (Power BI)
+3. Visualization (Power BI)
 The SQL views are imported into Power BI to build an interactive dashboard.
 See Covid_BI_Project.pbix for the final dashboard.
 
