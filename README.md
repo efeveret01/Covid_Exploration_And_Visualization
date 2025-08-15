@@ -36,15 +36,15 @@ See CovidDataViews for the SQL views that were created.
 The SQL views are imported into Power BI to build an interactive dashboard.
 See Covid_BI_Project.pbix for the final dashboard.
 
-How to Run
+## How to Run
 
-Download Covid_BI_Project.pbix from the repository file list.
+1. Download Covid_BI_Project.pbix from the repository file list.
 
-Open the .pbix file in Power BI Desktop.
+2. Open the .pbix file in Power BI Desktop.
 (Ensure you have Power BI Desktop installed.)
 
-Data Source
+## Data Source
 
 Data is provided by:
-Our World in Data – COVID-19 Dataset
+[1] https://ourworldindata.org/covid-deaths
 
