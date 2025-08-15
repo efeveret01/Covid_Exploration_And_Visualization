@@ -15,11 +15,11 @@ See CovidDataViews for the SQL views that were created.
 
 3. **Visualization (Power BI):**
 The SQL views are imported into Power BI to build an interactive dashboard.
-See Covid_BI_Project.pbix for the final dashboard.
+See covid_dashboard.pbix for the final dashboard.
 
 ## How to Run
 
-1. Download Covid_BI_Project.pbix from the repository file list.
+1. Download covid_dashboard.pbix from the repository file list.
 
 2. Open the .pbix file in Power BI Desktop.
 (Ensure you have Power BI Desktop installed.)
